@@ -19,13 +19,13 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `xn11b6ch_blogdb`
+-- Database: `username_blogdb`
 --
 
 -- --------------------------------------------------------
 
 --
--- Table structure for table `tbl_blog`
+-- Table structure for table `table_blog`
 --
 
 CREATE TABLE `tbl_blog` (
